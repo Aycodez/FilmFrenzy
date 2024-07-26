@@ -20,14 +20,12 @@ Welcome to FilmFrenzy! This project is a web application that allows users to se
 
 ## Screenshots
 
-### Home Page
-![Home Page](screenshots/homepage.png)
 
-### Search Results
-![Search Results](screenshots/search_results.png)
+### Light mode
+![Search Results](scrimages/1.png)
 
-### Movie Details
-![Movie Details](screenshots/movie_details.png)
+### Dark mode
+![Movie Details](scrimages/2.png)
 
 ## Installation
 
